@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: faithlocus
+SEOTitle: faithlocus的博客 | faithlocus Blog
+header-img: img/home-bg-hill.jpg
+email: faithlocus86@gmail.com
+description: "描述"
+keyword: "faithlocus, faithlocus"
+url: "https://faithlocus.github.io"
+baseurl: ""
+...
